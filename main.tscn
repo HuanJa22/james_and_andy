@@ -1,0 +1,16 @@
+[gd_scene load_steps=2 format=3 uid="uid://duagwq7g506fq"]
+
+[ext_resource type="Script" path="res://main.gd" id="1_13vhp"]
+
+[node name="Main" type="Node2D"]
+script = ExtResource("1_13vhp")
+
+[node name="Play" type="Button" parent="."]
+offset_left = 426.0
+offset_top = 235.0
+offset_right = 726.0
+offset_bottom = 415.0
+size_flags_horizontal = 4
+text = "Play"
+
+[connection signal="pressed" from="Play" to="." method="_on_play_pressed"]

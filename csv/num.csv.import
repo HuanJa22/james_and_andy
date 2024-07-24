@@ -1,0 +1,17 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://d15yer1elpu4g"
+
+[deps]
+
+files=["res://csv/num.1.4.translation", "res://csv/num.2.4.translation", "res://csv/num.3.1.translation", "res://csv/num.4.1.translation", "res://csv/num.5.8.translation", "res://csv/num.6.2.translation", "res://csv/num.6.4.translation", "res://csv/num.7.4.translation", "res://csv/num.8.1.translation", "res://csv/num.9.1.translation", "res://csv/num.9.7.translation", "res://csv/num.10.8.translation", "res://csv/num.12.4.translation", "res://csv/num.12.9.translation", "res://csv/num.13.5.translation", "res://csv/num.14.1.translation", "res://csv/num.14.7.translation", "res://csv/num.15.4.translation", "res://csv/num.15.8.translation", "res://csv/num.16.4.translation", "res://csv/num.16.6.translation", "res://csv/num.17.4.translation", "res://csv/num.18.3.translation", "res://csv/num.18.7.translation", "res://csv/num.19.1.translation", "res://csv/num.19.9.translation", "res://csv/num.20.4.translation", "res://csv/num.20.8.translation", "res://csv/num.21.6.translation", "res://csv/num.22.4.translation", "res://csv/num.22.9.translation", "res://csv/num.23.3.translation", "res://csv/num.24.1.translation", "res://csv/num.24.7.translation"]
+
+source_file="res://csv/num.csv"
+dest_files=["res://csv/num.1.4.translation", "res://csv/num.2.4.translation", "res://csv/num.3.1.translation", "res://csv/num.4.1.translation", "res://csv/num.5.8.translation", "res://csv/num.6.2.translation", "res://csv/num.6.4.translation", "res://csv/num.7.4.translation", "res://csv/num.8.1.translation", "res://csv/num.9.1.translation", "res://csv/num.9.7.translation", "res://csv/num.10.8.translation", "res://csv/num.12.4.translation", "res://csv/num.12.9.translation", "res://csv/num.13.5.translation", "res://csv/num.14.1.translation", "res://csv/num.14.7.translation", "res://csv/num.15.4.translation", "res://csv/num.15.8.translation", "res://csv/num.16.4.translation", "res://csv/num.16.6.translation", "res://csv/num.17.4.translation", "res://csv/num.18.3.translation", "res://csv/num.18.7.translation", "res://csv/num.19.1.translation", "res://csv/num.19.9.translation", "res://csv/num.20.4.translation", "res://csv/num.20.8.translation", "res://csv/num.21.6.translation", "res://csv/num.22.4.translation", "res://csv/num.22.9.translation", "res://csv/num.23.3.translation", "res://csv/num.24.1.translation", "res://csv/num.24.7.translation"]
+
+[params]
+
+compress=true
+delimiter=0

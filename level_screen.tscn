@@ -1,0 +1,32 @@
+[gd_scene load_steps=2 format=3 uid="uid://cemxr6xm2mwjw"]
+
+[ext_resource type="Script" path="res://level_screen.gd" id="1_xydhw"]
+
+[node name="Level_Screen" type="Node2D"]
+script = ExtResource("1_xydhw")
+
+[node name="Label" type="Label" parent="."]
+anchors_preset = 10
+anchor_right = 1.0
+offset_right = 452.0
+offset_bottom = 70.0
+text = "This is the level screen"
+
+[node name="level1" type="Button" parent="."]
+offset_left = 459.0
+offset_top = 163.0
+offset_right = 671.0
+offset_bottom = 294.0
+text = "Level 1"
+
+[node name="return" type="Button" parent="."]
+offset_left = 464.0
+offset_top = 363.0
+offset_right = 676.0
+offset_bottom = 494.0
+text = "Return"
+
+[connection signal="pressed" from="level1" to="." method="_on_level_1_pressed"]
+[connection signal="pressed" from="level1" to="." method="_on_button_pressed"]
+[connection signal="pressed" from="return" to="." method="_on_return_pressed"]
+[connection signal="pressed" from="return" to="." method="_on_level1_pressed"]
